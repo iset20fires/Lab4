@@ -1,3 +1,18 @@
-header{background-color: blue;
-color:white
-}
+header {background-color: blue;
+color:white}
+
+
+.container {background-color: lightgrey;
+color:black}
+
+
+#id1 {color:red}
+
+
+.highlight {color:green}
+
+
+.main-content {background-color: yellow;}
+
+
+a {text-decoration:none;}
