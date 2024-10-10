@@ -1,4 +1,4 @@
-header {background-color: blue;
+#header1 {background-color: blue;
 color:white}
 
 
@@ -16,3 +16,35 @@ color:black}
 
 
 a {text-decoration:none;}
+
+
+h1 {text-decoration-line:underline;
+    text-decoration-style:dashed;}
+h2 {text-decoration-line:underline;
+    text-decoration-style:dashed;}
+h3 {text-decoration-line:underline;
+    text-decoration-style:dashed;}
+h4 {text-decoration-line:underline;
+    text-decoration-style:dashed;}
+h5 {text-decoration-line:underline;
+    text-decoration-style:dashed;}
+h6 {text-decoration-line:underline;
+    text-decoration-style:dashed;}
+
+
+.bold-text {font-weight:bold}
+
+
+#intro {font-weight:bold; font-weight:300px}
+
+
+body {font-family:Arial,sans-serif}
+
+
+.custom-font {font-family:'Times New Roman',serif}
+
+
+#header2 {text-transform:uppercase}
+
+
+.capitalize-text {text-transform:capitalize}
